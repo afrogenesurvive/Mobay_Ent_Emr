@@ -1,0 +1,8 @@
+# Environment variables
+ENT_EMR/.env
+
+# Dependencies
+node_modules/
+
+# OS files
+.DS_Store
